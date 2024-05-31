@@ -11,3 +11,9 @@ python-dotenv==1.0.1
 requests==2.32.2
 urllib3==2.2.1
 Werkzeug==3.0.3
+requests
+Flask
+Werkzeug
+Flask-SQLAlchemy
+Flask-Login
+waitress
