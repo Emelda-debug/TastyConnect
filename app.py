@@ -7,6 +7,7 @@ import os
 from flask import jsonify
 import json
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
+from waitress import serve
 
 REVIEWS_FILE = 'reviews.json'
 app = Flask(__name__)
@@ -219,4 +220,4 @@ def view_recipes():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    serve(app, host="0.0.0.0", port=5000)
