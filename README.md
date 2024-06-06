@@ -6,9 +6,10 @@ and access recipes for different kinds of cuisines.
 Whether you are a novice cook or an experienced chef, Tasty Connect provides a 
 platform to share your culinary creations and discover new recipes from around 
 the world.
+You can view the deployed site here https://tastyconnect.onrender.com/
 
 AUTHORS: 
-Emelda Mada: 
+Emelda Mada: https://www.linkedin.com/in/emelda-mada-2b123920b/
 Maryann Omenuko: https://www.linkedin.com/in/maryann-omenuko-12079b286
 Emmanuel Mensah: https://www.linkedin.com/in/e-senu9210
 
