@@ -2,13 +2,15 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('registration-form').addEventListener('submit', function(event) {
         event.preventDefault();
 
+        // Get form values
         const username = document.getElementById('username').value;
         const password = document.getElementById('password').value;
 
         if (username && password) {
-            this.submit(); // Submit the form
+            // summit form
+            this.submit();
         } else {
-            alert('Please fill in all fields.');
+            alert('Fill in all fields.');
         }
     });
 });
