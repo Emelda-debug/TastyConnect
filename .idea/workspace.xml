@@ -71,7 +71,8 @@
       <workItem from="1716806907810" duration="5996000" />
       <workItem from="1716880183567" duration="360000" />
       <workItem from="1717057193604" duration="13610000" />
-      <workItem from="1717686942880" duration="5834000" />
+      <workItem from="1717686942880" duration="8830000" />
+      <workItem from="1717777216360" duration="729000" />
     </task>
     <servers />
   </component>
@@ -84,7 +85,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/static/js/view-script.js</url>
           <line>12</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

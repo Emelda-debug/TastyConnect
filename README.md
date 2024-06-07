@@ -37,4 +37,8 @@ Follow the following steps
 4. Push to the Branch (git push)
 5. Open a Pull Request
 
+Project blogs: 
+https://www.linkedin.com/pulse/my-journey-working-tastyconnect-maryann-omenuko-2erhe
+https://medium.com/@emeldamada5/savoring-african-flavors-my-journey-building-tastyconnect-2bda48610c9a
+
 
